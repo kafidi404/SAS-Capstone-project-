@@ -1,0 +1,11 @@
+OPERATIONAL ALERT - HIGH RISK REMOTE SESSION
+
+Session: VPN_0591
+Vendor: VENDOR_12
+Asset: OT_03
+Risk score: 100.0/100
+Time: 2026-08-31 08:50:00
+
+Evidence: off_hours=0, new_device=1, failed_attempts=7, outbound=105.6 MB, anomaly percentile=96.3.
+
+Recommended action: verify the vendor by an approved contact, terminate the remote session, temporarily isolate the affected OT asset if confirmed, preserve logs, review recent commands, and monitor related accounts and devices.

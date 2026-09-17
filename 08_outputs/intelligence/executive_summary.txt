@@ -1,0 +1,3 @@
+EXECUTIVE SECURITY SUMMARY
+
+The prototype identified a high-confidence pattern of compromised vendor access affecting OT_04. Correlated VPN, firewall, telemetry and ticket evidence indicates repeated failed logins, successful off-hours access from a new external device, unusual controller communication and abnormal pressure readings. The control simulation indicates that MFA combined with network segmentation and automatic isolation provides the strongest reduction in incident likelihood. The result is based on synthetic data and supports a decision to strengthen remote-access controls and monitoring; it does not authorize an automatic operational shutdown.

@@ -1,0 +1,5 @@
+case,records,mean_probability,detection_rate
+Original suspicious sessions,80,0.9144607186825755,0.925
+Working-hours evasion,80,0.9117156156426205,0.925
+Trusted-region and known-device disguise,80,0.8709456195815026,0.925
+Slow low-volume activity,80,0.8949373812655977,0.9125

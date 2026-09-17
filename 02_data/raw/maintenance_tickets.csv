@@ -1,0 +1,251 @@
+ticket_id,timestamp,vendor_id,asset_id,description,category,priority
+TKT_0236,2026-08-01 03:44:00,VENDOR_05,OT_09,Scheduled inspection completed for OT_09; readings are within normal range.,normal_maintenance,Low
+TKT_0022,2026-08-01 04:43:00,VENDOR_05,OT_11,Communication loss from OT_11; field technician assigned to inspect equipment.,equipment_fault,Medium
+TKT_0182,2026-08-01 08:35:00,VENDOR_06,OT_02,Unexpected remote login and configuration activity detected on OT_02; verify vendor account.,security_concern,High
+TKT_0093,2026-08-01 09:33:00,VENDOR_11,OT_09,Monthly valve and pump maintenance completed on OT_09 during approved window.,normal_maintenance,Low
+TKT_0194,2026-08-01 12:52:00,VENDOR_02,OT_11,Repeated sensor alarm on OT_11; possible calibration or hardware fault.,equipment_fault,Medium
+TKT_0029,2026-08-01 15:14:00,VENDOR_02,OT_03,Monthly valve and pump maintenance completed on OT_03 during approved window.,equipment_fault,Low
+TKT_0151,2026-08-01 18:54:00,VENDOR_05,OT_05,Repeated sensor alarm on OT_05; possible calibration or hardware fault.,equipment_fault,Medium
+TKT_0208,2026-08-02 01:52:00,VENDOR_10,OT_15,Monthly valve and pump maintenance completed on OT_15 during approved window.,normal_maintenance,Low
+TKT_0004,2026-08-02 03:46:00,VENDOR_05,OT_10,Vendor performed routine firmware check on OT_10; no fault was found.,normal_maintenance,Low
+TKT_0037,2026-08-02 04:57:00,VENDOR_02,OT_12,Scheduled inspection completed for OT_12; readings are within normal range.,normal_maintenance,Low
+TKT_0176,2026-08-02 13:41:00,VENDOR_03,OT_14,Scheduled inspection completed for OT_14; readings are within normal range.,equipment_fault,Low
+TKT_0024,2026-08-02 14:33:00,VENDOR_12,OT_07,Scheduled inspection completed for OT_07; readings are within normal range.,normal_maintenance,Low
+TKT_0161,2026-08-02 17:17:00,VENDOR_01,OT_02,Vendor performed routine firmware check on OT_02; no fault was found.,normal_maintenance,Low
+TKT_0227,2026-08-02 17:30:00,VENDOR_11,OT_01,New external device accessed OT_01 outside the approved maintenance window.,normal_maintenance,High
+TKT_0184,2026-08-02 18:58:00,VENDOR_09,OT_02,Operator reported unstable pressure readings on OT_02; engineering review requested.,equipment_fault,Medium
+TKT_0079,2026-08-02 19:53:00,VENDOR_02,OT_09,Multiple failed VPN attempts followed by unusual controller commands for OT_09.,security_concern,High
+TKT_0085,2026-08-02 20:17:00,VENDOR_02,OT_06,Scheduled inspection completed for OT_06; readings are within normal range.,normal_maintenance,Low
+TKT_0129,2026-08-02 21:24:00,VENDOR_05,OT_15,Vendor performed routine firmware check on OT_15; no fault was found.,normal_maintenance,Low
+TKT_0149,2026-08-03 00:22:00,VENDOR_01,OT_09,New external device accessed OT_09 outside the approved maintenance window.,security_concern,High
+TKT_0167,2026-08-03 07:20:00,VENDOR_09,OT_09,Scheduled inspection completed for OT_09; readings are within normal range.,normal_maintenance,Low
+TKT_0127,2026-08-03 11:08:00,VENDOR_11,OT_03,Operator reported unstable pressure readings on OT_03; engineering review requested.,equipment_fault,Medium
+TKT_0237,2026-08-03 15:06:00,VENDOR_03,OT_03,Monthly valve and pump maintenance completed on OT_03 during approved window.,normal_maintenance,Low
+TKT_0017,2026-08-03 19:45:00,VENDOR_02,OT_15,Scheduled inspection completed for OT_15; readings are within normal range.,normal_maintenance,Low
+TKT_0164,2026-08-04 00:19:00,VENDOR_05,OT_09,Operator reported unstable pressure readings on OT_09; engineering review requested.,equipment_fault,Medium
+TKT_0020,2026-08-04 02:22:00,VENDOR_09,OT_04,Scheduled inspection completed for OT_04; readings are within normal range.,normal_maintenance,Low
+TKT_0080,2026-08-04 12:36:00,VENDOR_04,OT_08,Repeated sensor alarm on OT_08; possible calibration or hardware fault.,equipment_fault,Medium
+TKT_0244,2026-08-04 18:05:00,VENDOR_03,OT_11,Operator reported unstable pressure readings on OT_11; engineering review requested.,equipment_fault,Medium
+TKT_0038,2026-08-04 20:12:00,VENDOR_06,OT_07,Vendor performed routine firmware check on OT_07; no fault was found.,normal_maintenance,Low
+TKT_0162,2026-08-05 01:54:00,VENDOR_06,OT_05,Repeated sensor alarm on OT_05; possible calibration or hardware fault.,equipment_fault,Medium
+TKT_0026,2026-08-05 02:03:00,VENDOR_10,OT_09,Communication loss from OT_09; field technician assigned to inspect equipment.,equipment_fault,Medium
+TKT_0145,2026-08-05 05:03:00,VENDOR_01,OT_13,Vendor performed routine firmware check on OT_13; no fault was found.,normal_maintenance,Low
+TKT_0141,2026-08-05 09:52:00,VENDOR_01,OT_10,Scheduled inspection completed for OT_10; readings are within normal range.,normal_maintenance,Low
+TKT_0211,2026-08-05 09:52:00,VENDOR_05,OT_09,Monthly valve and pump maintenance completed on OT_09 during approved window.,normal_maintenance,Low
+TKT_0247,2026-08-05 12:53:00,VENDOR_07,OT_08,Unexpected remote login and configuration activity detected on OT_08; verify vendor account.,security_concern,High
+TKT_0041,2026-08-05 15:09:00,VENDOR_12,OT_08,Monthly valve and pump maintenance completed on OT_08 during approved window.,normal_maintenance,Low
+TKT_0106,2026-08-05 21:35:00,VENDOR_02,OT_06,Unexpected remote login and configuration activity detected on OT_06; verify vendor account.,security_concern,High
+TKT_0014,2026-08-05 23:55:00,VENDOR_05,OT_14,Vendor performed routine firmware check on OT_14; no fault was found.,normal_maintenance,Low
+TKT_0100,2026-08-06 02:34:00,VENDOR_09,OT_07,Multiple failed VPN attempts followed by unusual controller commands for OT_07.,security_concern,High
+TKT_0213,2026-08-06 06:54:00,VENDOR_01,OT_03,Repeated sensor alarm on OT_03; possible calibration or hardware fault.,equipment_fault,Medium
+TKT_0031,2026-08-06 10:02:00,VENDOR_04,OT_06,Communication loss from OT_06; field technician assigned to inspect equipment.,equipment_fault,Medium
+TKT_0216,2026-08-06 15:08:00,VENDOR_08,OT_05,Multiple failed VPN attempts followed by unusual controller commands for OT_05.,security_concern,High
+TKT_0214,2026-08-06 16:24:00,VENDOR_03,OT_14,Scheduled inspection completed for OT_14; readings are within normal range.,normal_maintenance,Low
+TKT_0240,2026-08-06 17:33:00,VENDOR_02,OT_15,Communication loss from OT_15; field technician assigned to inspect equipment.,equipment_fault,Medium
+TKT_0015,2026-08-06 23:02:00,VENDOR_05,OT_13,Communication loss from OT_13; field technician assigned to inspect equipment.,equipment_fault,Medium
+TKT_0201,2026-08-06 23:31:00,VENDOR_03,OT_09,Operator reported unstable pressure readings on OT_09; engineering review requested.,equipment_fault,Medium
+TKT_0154,2026-08-07 01:42:00,VENDOR_11,OT_07,Multiple failed VPN attempts followed by unusual controller commands for OT_07.,security_concern,High
+TKT_0160,2026-08-07 03:11:00,VENDOR_12,OT_08,Multiple failed VPN attempts followed by unusual controller commands for OT_08.,security_concern,High
+TKT_0190,2026-08-07 10:34:00,VENDOR_06,OT_10,Operator reported unstable pressure readings on OT_10; engineering review requested.,equipment_fault,Medium
+TKT_0063,2026-08-07 11:50:00,VENDOR_07,OT_10,New external device accessed OT_10 outside the approved maintenance window.,security_concern,High
+TKT_0188,2026-08-07 12:49:00,VENDOR_02,OT_07,Monthly valve and pump maintenance completed on OT_07 during approved window.,normal_maintenance,Low
+TKT_0232,2026-08-07 15:04:00,VENDOR_11,OT_07,Communication loss from OT_07; field technician assigned to inspect equipment.,equipment_fault,Medium
+TKT_0059,2026-08-07 18:51:00,VENDOR_12,OT_12,Communication loss from OT_12; field technician assigned to inspect equipment.,equipment_fault,Medium
+TKT_0133,2026-08-07 19:02:00,VENDOR_03,OT_01,New external device accessed OT_01 outside the approved maintenance window.,security_concern,High
+TKT_0221,2026-08-08 02:43:00,VENDOR_05,OT_12,Monthly valve and pump maintenance completed on OT_12 during approved window.,normal_maintenance,Low
+TKT_0139,2026-08-08 03:12:00,VENDOR_11,OT_01,Monthly valve and pump maintenance completed on OT_01 during approved window.,normal_maintenance,Low
+TKT_0101,2026-08-08 07:24:00,VENDOR_02,OT_10,Vendor performed routine firmware check on OT_10; no fault was found.,normal_maintenance,Low
+TKT_0168,2026-08-09 01:56:00,VENDOR_04,OT_01,Operator reported unstable pressure readings on OT_01; engineering review requested.,equipment_fault,Medium
+TKT_0073,2026-08-09 03:29:00,VENDOR_01,OT_07,Scheduled inspection completed for OT_07; readings are within normal range.,normal_maintenance,Low
+TKT_0066,2026-08-10 01:37:00,VENDOR_02,OT_03,Monthly valve and pump maintenance completed on OT_03 during approved window.,normal_maintenance,Low
+TKT_0173,2026-08-10 01:50:00,VENDOR_07,OT_07,Communication loss from OT_07; field technician assigned to inspect equipment.,equipment_fault,Medium
+TKT_0147,2026-08-10 05:25:00,VENDOR_01,OT_09,Monthly valve and pump maintenance completed on OT_09 during approved window.,normal_maintenance,Low
+TKT_0035,2026-08-10 07:21:00,VENDOR_06,OT_03,Communication loss from OT_03; field technician assigned to inspect equipment.,equipment_fault,Medium
+TKT_0128,2026-08-10 10:41:00,VENDOR_08,OT_12,Operator reported unstable pressure readings on OT_12; engineering review requested.,equipment_fault,Medium
+TKT_0030,2026-08-10 17:35:00,VENDOR_09,OT_10,Vendor performed routine firmware check on OT_10; no fault was found.,normal_maintenance,Low
+TKT_0125,2026-08-10 20:48:00,VENDOR_07,OT_02,Multiple failed VPN attempts followed by unusual controller commands for OT_02.,security_concern,High
+TKT_0152,2026-08-10 23:56:00,VENDOR_10,OT_01,Monthly valve and pump maintenance completed on OT_01 during approved window.,normal_maintenance,Low
+TKT_0081,2026-08-11 00:28:00,VENDOR_02,OT_11,Scheduled inspection completed for OT_11; readings are within normal range.,normal_maintenance,Low
+TKT_0039,2026-08-11 02:24:00,VENDOR_07,OT_09,Communication loss from OT_09; field technician assigned to inspect equipment.,equipment_fault,Medium
+TKT_0062,2026-08-11 02:24:00,VENDOR_07,OT_02,Vendor performed routine firmware check on OT_02; no fault was found.,normal_maintenance,Low
+TKT_0051,2026-08-11 04:46:00,VENDOR_02,OT_04,Scheduled inspection completed for OT_04; readings are within normal range.,normal_maintenance,Low
+TKT_0064,2026-08-11 04:50:00,VENDOR_02,OT_05,Vendor performed routine firmware check on OT_05; no fault was found.,normal_maintenance,Low
+TKT_0239,2026-08-11 06:09:00,VENDOR_03,OT_05,Multiple failed VPN attempts followed by unusual controller commands for OT_05.,security_concern,High
+TKT_0040,2026-08-11 08:46:00,VENDOR_09,OT_08,New external device accessed OT_08 outside the approved maintenance window.,security_concern,High
+TKT_0033,2026-08-11 13:18:00,VENDOR_09,OT_01,Operator reported unstable pressure readings on OT_01; engineering review requested.,equipment_fault,Medium
+TKT_0175,2026-08-11 13:42:00,VENDOR_06,OT_02,Vendor performed routine firmware check on OT_02; no fault was found.,normal_maintenance,Low
+TKT_0025,2026-08-11 15:48:00,VENDOR_01,OT_14,Operator reported unstable pressure readings on OT_14; engineering review requested.,equipment_fault,Medium
+TKT_0165,2026-08-11 16:32:00,VENDOR_02,OT_09,Communication loss from OT_09; field technician assigned to inspect equipment.,equipment_fault,Medium
+TKT_0116,2026-08-11 18:32:00,VENDOR_03,OT_04,Monthly valve and pump maintenance completed on OT_04 during approved window.,normal_maintenance,Low
+TKT_0231,2026-08-11 19:12:00,VENDOR_05,OT_11,Unexpected remote login and configuration activity detected on OT_11; verify vendor account.,security_concern,High
+TKT_0057,2026-08-12 00:12:00,VENDOR_07,OT_15,Scheduled inspection completed for OT_15; readings are within normal range.,normal_maintenance,Low
+TKT_0246,2026-08-12 00:27:00,VENDOR_12,OT_15,Vendor performed routine firmware check on OT_15; no fault was found.,normal_maintenance,Low
+TKT_0209,2026-08-12 02:57:00,VENDOR_07,OT_11,Monthly valve and pump maintenance completed on OT_11 during approved window.,normal_maintenance,Low
+TKT_0013,2026-08-12 08:22:00,VENDOR_08,OT_06,New external device accessed OT_06 outside the approved maintenance window.,security_concern,High
+TKT_0242,2026-08-12 09:53:00,VENDOR_12,OT_10,Communication loss from OT_10; field technician assigned to inspect equipment.,equipment_fault,Medium
+TKT_0122,2026-08-12 10:19:00,VENDOR_12,OT_09,Scheduled inspection completed for OT_09; readings are within normal range.,normal_maintenance,Low
+TKT_0028,2026-08-12 11:57:00,VENDOR_08,OT_01,Communication loss from OT_01; field technician assigned to inspect equipment.,equipment_fault,Medium
+TKT_0043,2026-08-12 13:46:00,VENDOR_09,OT_03,Multiple failed VPN attempts followed by unusual controller commands for OT_03.,security_concern,High
+TKT_0207,2026-08-12 14:04:00,VENDOR_12,OT_15,Scheduled inspection completed for OT_15; readings are within normal range.,normal_maintenance,Low
+TKT_0072,2026-08-12 18:20:00,VENDOR_06,OT_07,Monthly valve and pump maintenance completed on OT_07 during approved window.,normal_maintenance,Low
+TKT_0196,2026-08-12 19:30:00,VENDOR_02,OT_15,Communication loss from OT_15; field technician assigned to inspect equipment.,equipment_fault,Medium
+TKT_0192,2026-08-12 22:50:00,VENDOR_02,OT_09,Communication loss from OT_09; field technician assigned to inspect equipment.,equipment_fault,Medium
+TKT_0058,2026-08-13 01:54:00,VENDOR_10,OT_09,Operator reported unstable pressure readings on OT_09; engineering review requested.,equipment_fault,Medium
+TKT_0198,2026-08-13 03:31:00,VENDOR_07,OT_14,Scheduled inspection completed for OT_14; readings are within normal range.,normal_maintenance,Low
+TKT_0210,2026-08-13 06:24:00,VENDOR_02,OT_06,Communication loss from OT_06; field technician assigned to inspect equipment.,equipment_fault,Medium
+TKT_0148,2026-08-13 10:18:00,VENDOR_02,OT_11,Multiple failed VPN attempts followed by unusual controller commands for OT_11.,security_concern,High
+TKT_0219,2026-08-13 17:26:00,VENDOR_07,OT_09,Scheduled inspection completed for OT_09; readings are within normal range.,normal_maintenance,Low
+TKT_0202,2026-08-13 18:20:00,VENDOR_10,OT_07,Scheduled inspection completed for OT_07; readings are within normal range.,normal_maintenance,Low
+TKT_0248,2026-08-13 18:32:00,VENDOR_07,OT_05,Repeated sensor alarm on OT_05; possible calibration or hardware fault.,equipment_fault,Medium
+TKT_0049,2026-08-13 19:22:00,VENDOR_06,OT_02,Scheduled inspection completed for OT_02; readings are within normal range.,normal_maintenance,Low
+TKT_0132,2026-08-13 20:47:00,VENDOR_04,OT_05,Operator reported unstable pressure readings on OT_05; engineering review requested.,equipment_fault,Medium
+TKT_0166,2026-08-13 22:04:00,VENDOR_09,OT_15,Monthly valve and pump maintenance completed on OT_15 during approved window.,normal_maintenance,Low
+TKT_0187,2026-08-13 22:27:00,VENDOR_05,OT_13,Scheduled inspection completed for OT_13; readings are within normal range.,normal_maintenance,Low
+TKT_0174,2026-08-13 23:41:00,VENDOR_11,OT_06,Unexpected remote login and configuration activity detected on OT_06; verify vendor account.,security_concern,High
+TKT_0224,2026-08-14 00:18:00,VENDOR_12,OT_14,Repeated sensor alarm on OT_14; possible calibration or hardware fault.,equipment_fault,Medium
+TKT_0170,2026-08-14 02:00:00,VENDOR_07,OT_05,Repeated sensor alarm on OT_05; possible calibration or hardware fault.,equipment_fault,Medium
+TKT_0143,2026-08-14 03:02:00,VENDOR_09,OT_15,Monthly valve and pump maintenance completed on OT_15 during approved window.,normal_maintenance,Low
+TKT_0103,2026-08-14 04:47:00,VENDOR_09,OT_12,Monthly valve and pump maintenance completed on OT_12 during approved window.,normal_maintenance,Low
+TKT_0056,2026-08-14 06:12:00,VENDOR_04,OT_13,Multiple failed VPN attempts followed by unusual controller commands for OT_13.,security_concern,High
+TKT_0249,2026-08-14 08:03:00,VENDOR_12,OT_06,Unexpected remote login and configuration activity detected on OT_06; verify vendor account.,security_concern,High
+TKT_0115,2026-08-14 13:04:00,VENDOR_10,OT_05,Multiple failed VPN attempts followed by unusual controller commands for OT_05.,security_concern,High
+TKT_0226,2026-08-14 14:59:00,VENDOR_01,OT_09,New external device accessed OT_09 outside the approved maintenance window.,security_concern,High
+TKT_0197,2026-08-14 16:09:00,VENDOR_09,OT_04,New external device accessed OT_04 outside the approved maintenance window.,security_concern,High
+TKT_0142,2026-08-15 03:37:00,VENDOR_04,OT_03,New external device accessed OT_03 outside the approved maintenance window.,security_concern,High
+TKT_0189,2026-08-15 06:36:00,VENDOR_07,OT_01,Monthly valve and pump maintenance completed on OT_01 during approved window.,normal_maintenance,Low
+TKT_0061,2026-08-15 07:51:00,VENDOR_10,OT_08,New external device accessed OT_08 outside the approved maintenance window.,security_concern,High
+TKT_0218,2026-08-15 12:57:00,VENDOR_06,OT_11,New external device accessed OT_11 outside the approved maintenance window.,security_concern,High
+TKT_0113,2026-08-15 13:16:00,VENDOR_11,OT_05,Monthly valve and pump maintenance completed on OT_05 during approved window.,equipment_fault,Low
+TKT_0191,2026-08-15 16:22:00,VENDOR_12,OT_09,Monthly valve and pump maintenance completed on OT_09 during approved window.,normal_maintenance,Low
+TKT_0233,2026-08-15 18:11:00,VENDOR_12,OT_02,Vendor performed routine firmware check on OT_02; no fault was found.,normal_maintenance,Low
+TKT_0200,2026-08-15 18:35:00,VENDOR_11,OT_02,Multiple failed VPN attempts followed by unusual controller commands for OT_02.,security_concern,High
+TKT_0137,2026-08-15 22:46:00,VENDOR_04,OT_06,Communication loss from OT_06; field technician assigned to inspect equipment.,equipment_fault,Medium
+TKT_0021,2026-08-16 01:26:00,VENDOR_07,OT_09,Repeated sensor alarm on OT_09; possible calibration or hardware fault.,equipment_fault,Medium
+TKT_0126,2026-08-16 04:43:00,VENDOR_04,OT_04,Repeated sensor alarm on OT_04; possible calibration or hardware fault.,equipment_fault,Medium
+TKT_0006,2026-08-16 07:48:00,VENDOR_02,OT_06,Scheduled inspection completed for OT_06; readings are within normal range.,equipment_fault,Low
+TKT_0105,2026-08-16 09:04:00,VENDOR_12,OT_04,Scheduled inspection completed for OT_04; readings are within normal range.,normal_maintenance,Low
+TKT_0088,2026-08-16 11:56:00,VENDOR_02,OT_01,Repeated sensor alarm on OT_01; possible calibration or hardware fault.,equipment_fault,Medium
+TKT_0084,2026-08-16 14:03:00,VENDOR_08,OT_12,New external device accessed OT_12 outside the approved maintenance window.,security_concern,High
+TKT_0087,2026-08-16 15:57:00,VENDOR_01,OT_12,Scheduled inspection completed for OT_12; readings are within normal range.,normal_maintenance,Low
+TKT_0074,2026-08-16 21:33:00,VENDOR_07,OT_06,Vendor performed routine firmware check on OT_06; no fault was found.,normal_maintenance,Low
+TKT_0092,2026-08-17 04:40:00,VENDOR_06,OT_11,New external device accessed OT_11 outside the approved maintenance window.,security_concern,High
+TKT_0098,2026-08-17 05:02:00,VENDOR_09,OT_04,Repeated sensor alarm on OT_04; possible calibration or hardware fault.,equipment_fault,Medium
+TKT_0118,2026-08-17 12:32:00,VENDOR_01,OT_09,Multiple failed VPN attempts followed by unusual controller commands for OT_09.,security_concern,High
+TKT_0110,2026-08-17 15:13:00,VENDOR_08,OT_03,Operator reported unstable pressure readings on OT_03; engineering review requested.,equipment_fault,Medium
+TKT_0068,2026-08-17 16:54:00,VENDOR_05,OT_04,Multiple failed VPN attempts followed by unusual controller commands for OT_04.,normal_maintenance,High
+TKT_0206,2026-08-17 17:01:00,VENDOR_02,OT_09,Multiple failed VPN attempts followed by unusual controller commands for OT_09.,security_concern,High
+TKT_0065,2026-08-17 18:38:00,VENDOR_03,OT_15,Vendor performed routine firmware check on OT_15; no fault was found.,normal_maintenance,Low
+TKT_0228,2026-08-17 19:53:00,VENDOR_12,OT_13,Operator reported unstable pressure readings on OT_13; engineering review requested.,equipment_fault,Medium
+TKT_0027,2026-08-17 20:43:00,VENDOR_09,OT_13,Vendor performed routine firmware check on OT_13; no fault was found.,equipment_fault,Low
+TKT_0067,2026-08-17 21:23:00,VENDOR_11,OT_08,Vendor performed routine firmware check on OT_08; no fault was found.,normal_maintenance,Low
+TKT_0095,2026-08-17 21:32:00,VENDOR_10,OT_06,Communication loss from OT_06; field technician assigned to inspect equipment.,equipment_fault,Medium
+TKT_0123,2026-08-17 22:14:00,VENDOR_11,OT_08,Repeated sensor alarm on OT_08; possible calibration or hardware fault.,equipment_fault,Medium
+TKT_0223,2026-08-17 23:54:00,VENDOR_04,OT_07,Repeated sensor alarm on OT_07; possible calibration or hardware fault.,equipment_fault,Medium
+TKT_0104,2026-08-18 04:51:00,VENDOR_04,OT_08,Monthly valve and pump maintenance completed on OT_08 during approved window.,normal_maintenance,Low
+TKT_0018,2026-08-18 07:16:00,VENDOR_04,OT_07,Monthly valve and pump maintenance completed on OT_07 during approved window.,normal_maintenance,Low
+TKT_0016,2026-08-18 10:02:00,VENDOR_01,OT_07,Unexpected remote login and configuration activity detected on OT_07; verify vendor account.,security_concern,High
+TKT_0241,2026-08-18 10:02:00,VENDOR_08,OT_01,Repeated sensor alarm on OT_01; possible calibration or hardware fault.,equipment_fault,Medium
+TKT_0034,2026-08-18 15:26:00,VENDOR_07,OT_13,Monthly valve and pump maintenance completed on OT_13 during approved window.,normal_maintenance,Low
+TKT_0195,2026-08-18 16:19:00,VENDOR_02,OT_06,Repeated sensor alarm on OT_06; possible calibration or hardware fault.,equipment_fault,Medium
+TKT_0222,2026-08-19 00:56:00,VENDOR_08,OT_09,Scheduled inspection completed for OT_09; readings are within normal range.,normal_maintenance,Low
+TKT_0185,2026-08-19 03:03:00,VENDOR_05,OT_02,Multiple failed VPN attempts followed by unusual controller commands for OT_02.,security_concern,High
+TKT_0178,2026-08-19 04:29:00,VENDOR_05,OT_13,Monthly valve and pump maintenance completed on OT_13 during approved window.,normal_maintenance,Low
+TKT_0050,2026-08-19 08:08:00,VENDOR_06,OT_14,Monthly valve and pump maintenance completed on OT_14 during approved window.,normal_maintenance,Low
+TKT_0234,2026-08-19 10:27:00,VENDOR_05,OT_03,Operator reported unstable pressure readings on OT_03; engineering review requested.,equipment_fault,Medium
+TKT_0177,2026-08-19 11:19:00,VENDOR_11,OT_11,Monthly valve and pump maintenance completed on OT_11 during approved window.,normal_maintenance,Low
+TKT_0140,2026-08-19 18:19:00,VENDOR_05,OT_10,Monthly valve and pump maintenance completed on OT_10 during approved window.,normal_maintenance,Low
+TKT_0069,2026-08-19 19:19:00,VENDOR_11,OT_13,Multiple failed VPN attempts followed by unusual controller commands for OT_13.,security_concern,High
+TKT_0119,2026-08-19 23:57:00,VENDOR_01,OT_12,Scheduled inspection completed for OT_12; readings are within normal range.,normal_maintenance,Low
+TKT_0089,2026-08-20 04:19:00,VENDOR_02,OT_13,Monthly valve and pump maintenance completed on OT_13 during approved window.,normal_maintenance,Low
+TKT_0169,2026-08-20 16:29:00,VENDOR_01,OT_01,Vendor performed routine firmware check on OT_01; no fault was found.,normal_maintenance,Low
+TKT_0180,2026-08-20 18:20:00,VENDOR_06,OT_12,Scheduled inspection completed for OT_12; readings are within normal range.,normal_maintenance,Low
+TKT_0172,2026-08-20 21:03:00,VENDOR_10,OT_03,Scheduled inspection completed for OT_03; readings are within normal range.,normal_maintenance,Low
+TKT_0225,2026-08-20 21:47:00,VENDOR_05,OT_14,Vendor performed routine firmware check on OT_14; no fault was found.,normal_maintenance,Low
+TKT_0102,2026-08-21 07:38:00,VENDOR_02,OT_06,Communication loss from OT_06; field technician assigned to inspect equipment.,equipment_fault,Medium
+TKT_0158,2026-08-21 09:40:00,VENDOR_05,OT_12,New external device accessed OT_12 outside the approved maintenance window.,security_concern,High
+TKT_0071,2026-08-21 11:37:00,VENDOR_02,OT_10,Vendor performed routine firmware check on OT_10; no fault was found.,normal_maintenance,Low
+TKT_0217,2026-08-21 13:42:00,VENDOR_06,OT_05,Unexpected remote login and configuration activity detected on OT_05; verify vendor account.,security_concern,High
+TKT_0090,2026-08-21 17:01:00,VENDOR_01,OT_14,New external device accessed OT_14 outside the approved maintenance window.,security_concern,High
+TKT_0003,2026-08-21 17:32:00,VENDOR_10,OT_15,Communication loss from OT_15; field technician assigned to inspect equipment.,security_concern,Medium
+TKT_0181,2026-08-21 21:20:00,VENDOR_03,OT_01,Communication loss from OT_01; field technician assigned to inspect equipment.,equipment_fault,Medium
+TKT_0130,2026-08-21 21:54:00,VENDOR_04,OT_14,Repeated sensor alarm on OT_14; possible calibration or hardware fault.,security_concern,Medium
+TKT_0076,2026-08-22 01:37:00,VENDOR_05,OT_02,New external device accessed OT_02 outside the approved maintenance window.,security_concern,High
+TKT_0138,2026-08-22 06:45:00,VENDOR_08,OT_07,Vendor performed routine firmware check on OT_07; no fault was found.,normal_maintenance,Low
+TKT_0012,2026-08-22 13:46:00,VENDOR_06,OT_09,Repeated sensor alarm on OT_09; possible calibration or hardware fault.,equipment_fault,Medium
+TKT_0220,2026-08-22 17:28:00,VENDOR_05,OT_10,Communication loss from OT_10; field technician assigned to inspect equipment.,equipment_fault,Medium
+TKT_0183,2026-08-22 19:51:00,VENDOR_03,OT_08,New external device accessed OT_08 outside the approved maintenance window.,security_concern,High
+TKT_0083,2026-08-23 00:09:00,VENDOR_12,OT_13,Repeated sensor alarm on OT_13; possible calibration or hardware fault.,equipment_fault,Medium
+TKT_0042,2026-08-23 02:50:00,VENDOR_06,OT_06,Vendor performed routine firmware check on OT_06; no fault was found.,normal_maintenance,Low
+TKT_0153,2026-08-23 06:45:00,VENDOR_05,OT_01,Communication loss from OT_01; field technician assigned to inspect equipment.,equipment_fault,Medium
+TKT_0157,2026-08-23 06:54:00,VENDOR_02,OT_11,Unexpected remote login and configuration activity detected on OT_11; verify vendor account.,security_concern,High
+TKT_0205,2026-08-23 09:11:00,VENDOR_03,OT_08,Unexpected remote login and configuration activity detected on OT_08; verify vendor account.,security_concern,High
+TKT_0019,2026-08-23 18:07:00,VENDOR_12,OT_01,Operator reported unstable pressure readings on OT_01; engineering review requested.,equipment_fault,Medium
+TKT_0186,2026-08-23 22:21:00,VENDOR_04,OT_02,Operator reported unstable pressure readings on OT_02; engineering review requested.,equipment_fault,Medium
+TKT_0048,2026-08-24 01:27:00,VENDOR_07,OT_09,Monthly valve and pump maintenance completed on OT_09 during approved window.,normal_maintenance,Low
+TKT_0010,2026-08-24 04:40:00,VENDOR_05,OT_01,Operator reported unstable pressure readings on OT_01; engineering review requested.,equipment_fault,Medium
+TKT_0131,2026-08-24 17:50:00,VENDOR_11,OT_03,Communication loss from OT_03; field technician assigned to inspect equipment.,equipment_fault,Medium
+TKT_0135,2026-08-24 20:55:00,VENDOR_06,OT_05,Operator reported unstable pressure readings on OT_05; engineering review requested.,equipment_fault,Medium
+TKT_0032,2026-08-25 02:46:00,VENDOR_11,OT_01,New external device accessed OT_01 outside the approved maintenance window.,security_concern,High
+TKT_0007,2026-08-25 03:10:00,VENDOR_11,OT_10,Monthly valve and pump maintenance completed on OT_10 during approved window.,normal_maintenance,Low
+TKT_0199,2026-08-25 03:40:00,VENDOR_04,OT_04,Scheduled inspection completed for OT_04; readings are within normal range.,normal_maintenance,Low
+TKT_0108,2026-08-25 06:32:00,VENDOR_07,OT_14,Scheduled inspection completed for OT_14; readings are within normal range.,normal_maintenance,Low
+TKT_0243,2026-08-25 10:30:00,VENDOR_07,OT_14,Unexpected remote login and configuration activity detected on OT_14; verify vendor account.,security_concern,High
+TKT_0078,2026-08-25 19:52:00,VENDOR_10,OT_02,New external device accessed OT_02 outside the approved maintenance window.,security_concern,High
+TKT_0060,2026-08-25 23:57:00,VENDOR_06,OT_14,Vendor performed routine firmware check on OT_14; no fault was found.,normal_maintenance,Low
+TKT_0002,2026-08-26 04:19:00,VENDOR_07,OT_02,New external device accessed OT_02 outside the approved maintenance window.,security_concern,High
+TKT_0005,2026-08-26 11:01:00,VENDOR_09,OT_09,Communication loss from OT_09; field technician assigned to inspect equipment.,equipment_fault,Medium
+TKT_0077,2026-08-26 12:57:00,VENDOR_09,OT_15,Repeated sensor alarm on OT_15; possible calibration or hardware fault.,equipment_fault,Medium
+TKT_0009,2026-08-26 15:49:00,VENDOR_05,OT_13,Operator reported unstable pressure readings on OT_13; engineering review requested.,equipment_fault,Medium
+TKT_0086,2026-08-26 18:27:00,VENDOR_03,OT_02,Vendor performed routine firmware check on OT_02; no fault was found.,normal_maintenance,Low
+TKT_0229,2026-08-26 18:43:00,VENDOR_06,OT_11,Repeated sensor alarm on OT_11; possible calibration or hardware fault.,equipment_fault,Medium
+TKT_0112,2026-08-26 19:29:00,VENDOR_05,OT_06,Operator reported unstable pressure readings on OT_06; engineering review requested.,equipment_fault,Medium
+TKT_0082,2026-08-26 23:56:00,VENDOR_04,OT_01,New external device accessed OT_01 outside the approved maintenance window.,security_concern,High
+TKT_0203,2026-08-27 02:59:00,VENDOR_08,OT_07,Communication loss from OT_07; field technician assigned to inspect equipment.,equipment_fault,Medium
+TKT_0107,2026-08-27 05:49:00,VENDOR_10,OT_11,Repeated sensor alarm on OT_11; possible calibration or hardware fault.,equipment_fault,Medium
+TKT_0047,2026-08-27 07:40:00,VENDOR_01,OT_01,Communication loss from OT_01; field technician assigned to inspect equipment.,equipment_fault,Medium
+TKT_0096,2026-08-27 09:04:00,VENDOR_03,OT_01,Communication loss from OT_01; field technician assigned to inspect equipment.,equipment_fault,Medium
+TKT_0193,2026-08-27 09:27:00,VENDOR_02,OT_06,Multiple failed VPN attempts followed by unusual controller commands for OT_06.,security_concern,High
+TKT_0212,2026-08-27 19:08:00,VENDOR_09,OT_07,Unexpected remote login and configuration activity detected on OT_07; verify vendor account.,security_concern,High
+TKT_0235,2026-08-28 03:01:00,VENDOR_08,OT_06,Scheduled inspection completed for OT_06; readings are within normal range.,normal_maintenance,Low
+TKT_0179,2026-08-28 04:13:00,VENDOR_08,OT_14,Monthly valve and pump maintenance completed on OT_14 during approved window.,normal_maintenance,Low
+TKT_0163,2026-08-28 07:58:00,VENDOR_10,OT_09,Scheduled inspection completed for OT_09; readings are within normal range.,normal_maintenance,Low
+TKT_0054,2026-08-28 07:58:00,VENDOR_02,OT_13,Operator reported unstable pressure readings on OT_13; engineering review requested.,security_concern,Medium
+TKT_0094,2026-08-28 10:27:00,VENDOR_02,OT_05,Unexpected remote login and configuration activity detected on OT_05; verify vendor account.,normal_maintenance,High
+TKT_0055,2026-08-28 12:19:00,VENDOR_12,OT_13,Vendor performed routine firmware check on OT_13; no fault was found.,normal_maintenance,Low
+TKT_0091,2026-08-28 12:46:00,VENDOR_05,OT_04,Communication loss from OT_04; field technician assigned to inspect equipment.,equipment_fault,Medium
+TKT_0230,2026-08-28 13:44:00,VENDOR_05,OT_05,Vendor performed routine firmware check on OT_05; no fault was found.,normal_maintenance,Low
+TKT_0124,2026-08-28 14:22:00,VENDOR_12,OT_02,Operator reported unstable pressure readings on OT_02; engineering review requested.,equipment_fault,Medium
+TKT_0001,2026-08-28 15:14:00,VENDOR_08,OT_11,Scheduled inspection completed for OT_11; readings are within normal range.,normal_maintenance,Low
+TKT_0011,2026-08-28 16:42:00,VENDOR_12,OT_14,Communication loss from OT_14; field technician assigned to inspect equipment.,equipment_fault,Medium
+TKT_0097,2026-08-28 17:30:00,VENDOR_12,OT_01,New external device accessed OT_01 outside the approved maintenance window.,security_concern,High
+TKT_0023,2026-08-28 19:55:00,VENDOR_11,OT_12,Vendor performed routine firmware check on OT_12; no fault was found.,normal_maintenance,Low
+TKT_0134,2026-08-28 21:19:00,VENDOR_02,OT_05,Vendor performed routine firmware check on OT_05; no fault was found.,normal_maintenance,Low
+TKT_0171,2026-08-28 21:47:00,VENDOR_11,OT_07,Unexpected remote login and configuration activity detected on OT_07; verify vendor account.,security_concern,High
+TKT_0117,2026-08-29 00:26:00,VENDOR_02,OT_07,Vendor performed routine firmware check on OT_07; no fault was found.,normal_maintenance,Low
+TKT_0238,2026-08-29 00:42:00,VENDOR_01,OT_08,Vendor performed routine firmware check on OT_08; no fault was found.,normal_maintenance,Low
+TKT_0120,2026-08-29 01:48:00,VENDOR_06,OT_03,Monthly valve and pump maintenance completed on OT_03 during approved window.,normal_maintenance,Low
+TKT_0215,2026-08-29 08:31:00,VENDOR_05,OT_10,Operator reported unstable pressure readings on OT_10; engineering review requested.,equipment_fault,Medium
+TKT_0099,2026-08-29 10:07:00,VENDOR_04,OT_15,Repeated sensor alarm on OT_15; possible calibration or hardware fault.,equipment_fault,Medium
+TKT_0144,2026-08-29 10:14:00,VENDOR_06,OT_03,Unexpected remote login and configuration activity detected on OT_03; verify vendor account.,security_concern,High
+TKT_0150,2026-08-29 13:08:00,VENDOR_09,OT_08,Unexpected remote login and configuration activity detected on OT_08; verify vendor account.,security_concern,High
+TKT_0204,2026-08-29 20:54:00,VENDOR_08,OT_10,Scheduled inspection completed for OT_10; readings are within normal range.,normal_maintenance,Low
+TKT_0008,2026-08-29 21:31:00,VENDOR_02,OT_14,Monthly valve and pump maintenance completed on OT_14 during approved window.,normal_maintenance,Low
+TKT_0044,2026-08-29 23:39:00,VENDOR_09,OT_04,Monthly valve and pump maintenance completed on OT_04 during approved window.,normal_maintenance,Low
+TKT_0114,2026-08-30 00:31:00,VENDOR_02,OT_02,Multiple failed VPN attempts followed by unusual controller commands for OT_02.,security_concern,High
+TKT_INC_01,2026-08-30 02:38:00,VENDOR_07,OT_04,Urgent: failed remote logins were followed by unapproved commands and abnormal pressure on OT_04.,security_concern,High
+TKT_0111,2026-08-30 03:04:00,VENDOR_02,OT_01,Monthly valve and pump maintenance completed on OT_01 during approved window.,normal_maintenance,Low
+TKT_0036,2026-08-30 05:06:00,VENDOR_02,OT_15,Multiple failed VPN attempts followed by unusual controller commands for OT_15.,security_concern,High
+TKT_0156,2026-08-30 09:01:00,VENDOR_11,OT_09,Unexpected remote login and configuration activity detected on OT_09; verify vendor account.,security_concern,High
+TKT_0146,2026-08-30 13:46:00,VENDOR_06,OT_12,Repeated sensor alarm on OT_12; possible calibration or hardware fault.,equipment_fault,Medium
+TKT_0121,2026-08-30 20:25:00,VENDOR_05,OT_04,Vendor performed routine firmware check on OT_04; no fault was found.,normal_maintenance,Low
+TKT_0053,2026-08-30 23:36:00,VENDOR_12,OT_09,Communication loss from OT_09; field technician assigned to inspect equipment.,equipment_fault,Medium
+TKT_0045,2026-08-30 23:49:00,VENDOR_11,OT_09,Monthly valve and pump maintenance completed on OT_09 during approved window.,normal_maintenance,Low
+TKT_0109,2026-08-31 02:06:00,VENDOR_02,OT_09,Communication loss from OT_09; field technician assigned to inspect equipment.,equipment_fault,Medium
+TKT_0159,2026-08-31 06:14:00,VENDOR_06,OT_03,Multiple failed VPN attempts followed by unusual controller commands for OT_03.,security_concern,High
+TKT_0136,2026-08-31 07:09:00,VENDOR_06,OT_12,Scheduled inspection completed for OT_12; readings are within normal range.,normal_maintenance,Low
+TKT_0046,2026-08-31 14:19:00,VENDOR_09,OT_15,Scheduled inspection completed for OT_15; readings are within normal range.,normal_maintenance,Low
+TKT_0070,2026-08-31 15:02:00,VENDOR_11,OT_11,Multiple failed VPN attempts followed by unusual controller commands for OT_11.,security_concern,High
+TKT_0245,2026-08-31 18:10:00,VENDOR_01,OT_05,Scheduled inspection completed for OT_05; readings are within normal range.,equipment_fault,Low
+TKT_0052,2026-08-31 19:25:00,VENDOR_06,OT_09,Communication loss from OT_09; field technician assigned to inspect equipment.,equipment_fault,Medium
+TKT_0075,2026-08-31 22:12:00,VENDOR_01,OT_15,New external device accessed OT_15 outside the approved maintenance window.,security_concern,High
+TKT_0155,2026-08-31 23:01:00,VENDOR_04,OT_10,Repeated sensor alarm on OT_10; possible calibration or hardware fault.,equipment_fault,Medium

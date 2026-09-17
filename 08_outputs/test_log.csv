@@ -1,0 +1,8 @@
+test_id,component,input_condition,expected_result,actual_result_status
+T01,Data loading,All four CSV files,"5,750 total records and required columns",PASS - 5750 records
+T02,Supervised model,Held-out test set,"Precision, recall and F1 produced","PASS - best model Random Forest, F1=0.861"
+T03,Anomaly detection,"2,000 VPN sessions",Ranked outlier list with threshold,PASS - 160 outliers
+T04,Incident correlation,VENDOR_07 / OT_04,Timeline contains multiple source types,"PASS - 4 source types, 13 events"
+T05,Simulation,Three control scenarios,"1,000 iterations per scenario",PASS - 3 scenarios
+T06,NLP,250 synthetic tickets,Three-class model and evaluation,PASS - accuracy=0.952
+T07,Dashboard,Embedded analysis JSON,"HTML contains alerts, timeline and scenarios",PASS - standalone dashboard created

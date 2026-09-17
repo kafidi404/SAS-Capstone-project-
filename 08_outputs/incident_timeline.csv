@@ -1,0 +1,14 @@
+timestamp,source,event_id,entity,asset_id,event
+2026-08-30 02:04:00,VPN,VPN_0467,VENDOR_07,OT_04,FAIL remote login from 198.51.100.77; failed attempts=5
+2026-08-30 02:07:00,VPN,VPN_0797,VENDOR_07,OT_04,FAIL remote login from 198.51.100.77; failed attempts=5
+2026-08-30 02:10:00,VPN,VPN_0224,VENDOR_07,OT_04,FAIL remote login from 198.51.100.77; failed attempts=5
+2026-08-30 02:13:00,VPN,VPN_0846,VENDOR_07,OT_04,SUCCESS remote login from 198.51.100.77; failed attempts=1
+2026-08-30 02:16:00,VPN,VPN_0683,VENDOR_07,OT_04,SUCCESS remote login from 198.51.100.77; failed attempts=1
+2026-08-30 02:16:00,Firewall,FW_INC_1,198.51.100.77,OT_04,ALLOW TELNET traffic; connections=71; outbound=148.0 MB
+2026-08-30 02:19:00,VPN,VPN_0166,VENDOR_07,OT_04,SUCCESS remote login from 198.51.100.77; failed attempts=1
+2026-08-30 02:20:00,Firewall,FW_INC_2,198.51.100.77,OT_04,ALLOW MODBUS traffic; connections=83; outbound=170.0 MB
+2026-08-30 02:24:00,Firewall,FW_INC_3,198.51.100.77,OT_04,ALLOW MODBUS traffic; connections=95; outbound=192.0 MB
+2026-08-30 02:24:00,Telemetry,TEL_INC_1,pressure_bar,OT_04,ALARM reading 6.9; commands=14
+2026-08-30 02:28:00,Telemetry,TEL_INC_2,pressure_bar,OT_04,ALARM reading 8.2; commands=17
+2026-08-30 02:32:00,Telemetry,TEL_INC_3,pressure_bar,OT_04,ALARM reading 2.1; commands=20
+2026-08-30 02:38:00,Ticket,TKT_INC_01,VENDOR_07,OT_04,Urgent: failed remote logins were followed by unapproved commands and abnormal pressure on OT_04.

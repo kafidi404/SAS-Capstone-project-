@@ -1,0 +1,70 @@
+{
+  "record_count": 5750,
+  "vpn_records": 2000,
+  "firewall_records": 2000,
+  "telemetry_records": 1500,
+  "ticket_records": 250,
+  "suspicious_sessions": 170,
+  "outliers": 160,
+  "high_risk_sessions": 153,
+  "best_model": "Random Forest",
+  "best_precision": 0.918918918918919,
+  "best_recall": 0.8095238095238095,
+  "best_f1": 0.8607594936708861,
+  "nlp_accuracy": 0.9523809523809523,
+  "nlp_macro_f1": 0.9504731379731379,
+  "timeline_events": 13,
+  "timeline_sources": 4,
+  "simulation": [
+    {
+      "scenario": "Current controls",
+      "iterations": 1000,
+      "incident_rate": 0.035,
+      "mean_impact_score": 6.11979061521746,
+      "high_impact_runs": 22,
+      "risk_reduction_vs_baseline": 0.0
+    },
+    {
+      "scenario": "MFA and time restrictions",
+      "iterations": 1000,
+      "incident_rate": 0.011,
+      "mean_impact_score": 4.763963872531522,
+      "high_impact_runs": 9,
+      "risk_reduction_vs_baseline": 0.6857142857142857
+    },
+    {
+      "scenario": "MFA, segmentation and auto-isolation",
+      "iterations": 1000,
+      "incident_rate": 0.002,
+      "mean_impact_score": 4.15452516649648,
+      "high_impact_runs": 2,
+      "risk_reduction_vs_baseline": 0.9428571428571428
+    }
+  ],
+  "adversarial": [
+    {
+      "case": "Original suspicious sessions",
+      "records": 80,
+      "mean_probability": 0.9144607186825755,
+      "detection_rate": 0.925
+    },
+    {
+      "case": "Working-hours evasion",
+      "records": 80,
+      "mean_probability": 0.9117156156426205,
+      "detection_rate": 0.925
+    },
+    {
+      "case": "Trusted-region and known-device disguise",
+      "records": 80,
+      "mean_probability": 0.8709456195815026,
+      "detection_rate": 0.925
+    },
+    {
+      "case": "Slow low-volume activity",
+      "records": 80,
+      "mean_probability": 0.8949373812655977,
+      "detection_rate": 0.9125
+    }
+  ]
+}

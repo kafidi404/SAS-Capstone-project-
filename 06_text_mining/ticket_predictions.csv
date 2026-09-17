@@ -1,0 +1,64 @@
+ticket_id,description,category,predicted_category,correct
+TKT_0151,Repeated sensor alarm on OT_05; possible calibration or hardware fault.,equipment_fault,equipment_fault,1
+TKT_0020,Scheduled inspection completed for OT_04; readings are within normal range.,normal_maintenance,normal_maintenance,1
+TKT_0053,Communication loss from OT_09; field technician assigned to inspect equipment.,equipment_fault,equipment_fault,1
+TKT_0038,Vendor performed routine firmware check on OT_07; no fault was found.,normal_maintenance,normal_maintenance,1
+TKT_0218,New external device accessed OT_11 outside the approved maintenance window.,security_concern,security_concern,1
+TKT_0065,Vendor performed routine firmware check on OT_15; no fault was found.,normal_maintenance,normal_maintenance,1
+TKT_0003,Communication loss from OT_15; field technician assigned to inspect equipment.,security_concern,equipment_fault,0
+TKT_0066,Monthly valve and pump maintenance completed on OT_03 during approved window.,normal_maintenance,normal_maintenance,1
+TKT_0245,Scheduled inspection completed for OT_05; readings are within normal range.,equipment_fault,normal_maintenance,0
+TKT_0249,Unexpected remote login and configuration activity detected on OT_06; verify vendor account.,security_concern,security_concern,1
+TKT_0056,Multiple failed VPN attempts followed by unusual controller commands for OT_13.,security_concern,security_concern,1
+TKT_0188,Monthly valve and pump maintenance completed on OT_07 during approved window.,normal_maintenance,normal_maintenance,1
+TKT_0099,Repeated sensor alarm on OT_15; possible calibration or hardware fault.,equipment_fault,equipment_fault,1
+TKT_0152,Monthly valve and pump maintenance completed on OT_01 during approved window.,normal_maintenance,normal_maintenance,1
+TKT_0001,Scheduled inspection completed for OT_11; readings are within normal range.,normal_maintenance,normal_maintenance,1
+TKT_0184,Operator reported unstable pressure readings on OT_02; engineering review requested.,equipment_fault,equipment_fault,1
+TKT_0041,Monthly valve and pump maintenance completed on OT_08 during approved window.,normal_maintenance,normal_maintenance,1
+TKT_0129,Vendor performed routine firmware check on OT_15; no fault was found.,normal_maintenance,normal_maintenance,1
+TKT_0213,Repeated sensor alarm on OT_03; possible calibration or hardware fault.,equipment_fault,equipment_fault,1
+TKT_0036,Multiple failed VPN attempts followed by unusual controller commands for OT_15.,security_concern,security_concern,1
+TKT_0177,Monthly valve and pump maintenance completed on OT_11 during approved window.,normal_maintenance,normal_maintenance,1
+TKT_0167,Scheduled inspection completed for OT_09; readings are within normal range.,normal_maintenance,normal_maintenance,1
+TKT_0074,Vendor performed routine firmware check on OT_06; no fault was found.,normal_maintenance,normal_maintenance,1
+TKT_0063,New external device accessed OT_10 outside the approved maintenance window.,security_concern,security_concern,1
+TKT_0014,Vendor performed routine firmware check on OT_14; no fault was found.,normal_maintenance,normal_maintenance,1
+TKT_0194,Repeated sensor alarm on OT_11; possible calibration or hardware fault.,equipment_fault,equipment_fault,1
+TKT_0217,Unexpected remote login and configuration activity detected on OT_05; verify vendor account.,security_concern,security_concern,1
+TKT_0005,Communication loss from OT_09; field technician assigned to inspect equipment.,equipment_fault,equipment_fault,1
+TKT_0132,Operator reported unstable pressure readings on OT_05; engineering review requested.,equipment_fault,equipment_fault,1
+TKT_0161,Vendor performed routine firmware check on OT_02; no fault was found.,normal_maintenance,normal_maintenance,1
+TKT_0221,Monthly valve and pump maintenance completed on OT_12 during approved window.,normal_maintenance,normal_maintenance,1
+TKT_0148,Multiple failed VPN attempts followed by unusual controller commands for OT_11.,security_concern,security_concern,1
+TKT_0214,Scheduled inspection completed for OT_14; readings are within normal range.,normal_maintenance,normal_maintenance,1
+TKT_0061,New external device accessed OT_08 outside the approved maintenance window.,security_concern,security_concern,1
+TKT_0138,Vendor performed routine firmware check on OT_07; no fault was found.,normal_maintenance,normal_maintenance,1
+TKT_0009,Operator reported unstable pressure readings on OT_13; engineering review requested.,equipment_fault,equipment_fault,1
+TKT_0199,Scheduled inspection completed for OT_04; readings are within normal range.,normal_maintenance,normal_maintenance,1
+TKT_0133,New external device accessed OT_01 outside the approved maintenance window.,security_concern,security_concern,1
+TKT_0204,Scheduled inspection completed for OT_10; readings are within normal range.,normal_maintenance,normal_maintenance,1
+TKT_0220,Communication loss from OT_10; field technician assigned to inspect equipment.,equipment_fault,equipment_fault,1
+TKT_0043,Multiple failed VPN attempts followed by unusual controller commands for OT_03.,security_concern,security_concern,1
+TKT_0233,Vendor performed routine firmware check on OT_02; no fault was found.,normal_maintenance,normal_maintenance,1
+TKT_0124,Operator reported unstable pressure readings on OT_02; engineering review requested.,equipment_fault,equipment_fault,1
+TKT_0190,Operator reported unstable pressure readings on OT_10; engineering review requested.,equipment_fault,equipment_fault,1
+TKT_0021,Repeated sensor alarm on OT_09; possible calibration or hardware fault.,equipment_fault,equipment_fault,1
+TKT_0007,Monthly valve and pump maintenance completed on OT_10 during approved window.,normal_maintenance,normal_maintenance,1
+TKT_0094,Unexpected remote login and configuration activity detected on OT_05; verify vendor account.,normal_maintenance,security_concern,0
+TKT_0242,Communication loss from OT_10; field technician assigned to inspect equipment.,equipment_fault,equipment_fault,1
+TKT_0248,Repeated sensor alarm on OT_05; possible calibration or hardware fault.,equipment_fault,equipment_fault,1
+TKT_0197,New external device accessed OT_04 outside the approved maintenance window.,security_concern,security_concern,1
+TKT_0040,New external device accessed OT_08 outside the approved maintenance window.,security_concern,security_concern,1
+TKT_0189,Monthly valve and pump maintenance completed on OT_01 during approved window.,normal_maintenance,normal_maintenance,1
+TKT_0183,New external device accessed OT_08 outside the approved maintenance window.,security_concern,security_concern,1
+TKT_0106,Unexpected remote login and configuration activity detected on OT_06; verify vendor account.,security_concern,security_concern,1
+TKT_0095,Communication loss from OT_06; field technician assigned to inspect equipment.,equipment_fault,equipment_fault,1
+TKT_0229,Repeated sensor alarm on OT_11; possible calibration or hardware fault.,equipment_fault,equipment_fault,1
+TKT_0104,Monthly valve and pump maintenance completed on OT_08 during approved window.,normal_maintenance,normal_maintenance,1
+TKT_0098,Repeated sensor alarm on OT_04; possible calibration or hardware fault.,equipment_fault,equipment_fault,1
+TKT_0016,Unexpected remote login and configuration activity detected on OT_07; verify vendor account.,security_concern,security_concern,1
+TKT_0052,Communication loss from OT_09; field technician assigned to inspect equipment.,equipment_fault,equipment_fault,1
+TKT_0034,Monthly valve and pump maintenance completed on OT_13 during approved window.,normal_maintenance,normal_maintenance,1
+TKT_0191,Monthly valve and pump maintenance completed on OT_09 during approved window.,normal_maintenance,normal_maintenance,1
+TKT_0232,Communication loss from OT_07; field technician assigned to inspect equipment.,equipment_fault,equipment_fault,1

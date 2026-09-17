@@ -1,0 +1,4 @@
+scenario,iterations,incident_rate,mean_impact_score,high_impact_runs,risk_reduction_vs_baseline
+Current controls,1000,0.035,6.11979061521746,22,0.0
+MFA and time restrictions,1000,0.011,4.763963872531522,9,0.6857142857142857
+"MFA, segmentation and auto-isolation",1000,0.002,4.15452516649648,2,0.9428571428571428
